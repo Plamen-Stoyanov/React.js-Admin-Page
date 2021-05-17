@@ -1,6 +1,6 @@
 # React Admin Example
 
-> Example of React Admin. We use JSON-Server for our REST API
+> Example of React Admin. I use JSON-Server for the REST API
 
 ## Usage
 
